@@ -9,4 +9,4 @@ Pasos:
 #•	Copiar google-services.json generado al proyecto
 #•	Ingresar a Crece/cloud menssaging
 
-# seguir....videotutorial que esta clonado en dicho proyecto
+# seguir....videotutorial (se puede solicitar a los siguientes correos: jjosecamaluque@gmail.com, carbajalpachis@gmail.com )
