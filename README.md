@@ -1,5 +1,10 @@
-# Push Notification con FCM y Flutter
+# Push Notification con Firebase y Flutter
 
-Esto es parte de mi curso de Flutter que puedes encontrar aquí
-
-https://www.udemy.com/flutter-ios-android-fernando-herrera/?couponCode=FLUTTER-10
+Pasos:
+•	Clonar el proyecto
+•	Descargar las dependencias necesarias (flutter package get)
+•	Registrarte en Firebase
+•	Crear un proyecto en firebase
+•	Agregar app Andrioid a tu proyecto; es necesario que tenga el mismo package(com.example.push_upeu)
+•	Copiar google-services.json generado al proyecto
+•	Ingresar a Crece/cloud menssaging
