@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "989527306331",
+    "firebase_url": "https://flutterupeu.firebaseio.com",
+    "project_id": "flutterupeu",
+    "storage_bucket": "flutterupeu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989527306331:android:2467d63af78400e5128f7e",
+        "android_client_info": {
+          "package_name": "com.example.push_upeu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989527306331-s0nk2bf0b79a3t6nhtq07vts8hrcebgk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx1-N8pUaaaRRz285NhLC-YWdxUbrkY6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989527306331-s0nk2bf0b79a3t6nhtq07vts8hrcebgk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
